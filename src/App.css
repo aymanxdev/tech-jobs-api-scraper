@@ -1,5 +1,65 @@
+.body {
+  background-color: aliceblue;
+}
 .App {
   text-align: center;
+}
+
+.hero{
+  
+  
+  margin: 0 auto;
+  background-image: linear-gradient(to bottom, #42b883,    #60c581, #7dd17e, #99dc7b, #b7e778);
+  width: 100%;
+  height: 600px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero:after {
+  content: "";
+  position: absolute;
+  height: 180px;
+  left: -10%;
+  right: -10%;
+  border-radius: 100%;
+  bottom: -60px;
+  background: #fff;
+}
+
+.form-style
+{
+  margin: auto;
+  width: 50%;
+  font-family: 'Assistant', sans-serif;
+
+}
+.form-design{
+-moz-border-radius: 17px;
+-webkit-border-radius: 17px;
+border-radius: 17px; /* future proofing */
+-khtml-border-radius: 15px; /* for old Konqueror browsers */ 
+height: 46px;
+font-family: 'Assistant', sans-serif;
+}
+.text-style{
+  margin: 5%;
+  text-align: center;
+  color:#fff;
+  font-size: 88px;
+  font-family: 'Assistant', sans-serif; 
+  font-weight: 700;
+}
+.github{
+  font-size: 22px;
+  font-family: 'Assistant', sans-serif; 
+  font-weight: 300;
+}
+
+
+.col-centered{
+  float: none;
+  margin: 0 auto;
 }
 
 .App-logo {
