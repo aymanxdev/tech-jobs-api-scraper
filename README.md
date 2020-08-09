@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
 
 This project is dedicated to understand the basics of fetching data from an API.
 
@@ -36,8 +36,8 @@ How to make this better:
 
 ### Built With
 
-* [Bootstrap](https://react-bootstrap.github.io)
 * [Reactjs](https://reactjs.org)
+* [Bootstrap](https://react-bootstrap.github.io)
 * [Material UI](https://material-ui.com)
 * [GitHub API](https://jobs.github.com/api)
 
