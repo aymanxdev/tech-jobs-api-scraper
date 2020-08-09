@@ -1,56 +1,30 @@
 
-[![Contributors]][contributors-url]
-[![Forks]][forks-url]
-[![LinkedIn]][linkedin-url]
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/aymanxdev/tech-jobs-api-scraper">
-    <img src="images/header.png" alt="header" width="80" height="80">
+    <img src="images/header.png" alt="header" width="100%" height="100%">
   </a>
 
   <h3 align="center">Reactjs - Teach Jobs Scraper </h3>
 
   <p align="center">
     This is a React project that uses GitHub Jobs API to fetch data and present in minimalist UI Design!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]
 
 This project is dedicated to understand the basics of fetching data from an API.
 
@@ -79,7 +53,10 @@ Project Link: [https://github.com/aymanxdev/tech-jobs-api-scraper](https://githu
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/aymanxdev/tech-jobs-api-scraper.svg?style=flat-square
 [contributors-url]: https://github.com/aymanxdev/tech-jobs-api-scraper/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aymanxdev/tech-jobs-api-scraper.svg?style=flat-square
 [forks-url]: https://github.com/aymanxdev/tech-jobs-api-scraper/network/members
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ayman-io/
 [product-screenshot]: images/Github-jobs-api-reactjs-ui.png
