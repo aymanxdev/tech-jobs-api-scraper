@@ -47,7 +47,7 @@ How to make this better:
 
 Ayman A.  - www.aymanx.io
 
-Project Link: [https://github.com/aymanxdev/tech-jobs-api-scraper](https://github.com/aymanxdev/tech-jobs-api-scraper)
+Project Link: [View live demo](https://flamboyant-mirzakhani-4699d3.netlify.app/)
 
 
 
